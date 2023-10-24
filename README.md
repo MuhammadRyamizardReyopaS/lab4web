@@ -11,57 +11,54 @@ TI22A2
 2. praktek praktikum 4
 ```
 
-## 1. Tugas dan pertanyaan. 
-
-0. halaman utama 
-
-![fototugas1.PNG](fototugas1.PNG)
+## 1. Tugas dan pertanyaan
 
 ### 1. Tambahkan Layout untuk menu About
 => buat single layout yang berisi deskripsi, portfolio, dll
 
-![fd1](fd1.png)
+![fototugas1.PNG](fototugas1.PNG)
 
 
 ### 2. Tambahkan layout untuk menu Contact
 => yang berisi form isian: nama, email, message, dll
 
-![fd2](fd2.png)
+![fototugas2.PNG](fototugas2.PNG)
+
 
 
 ## 2. latihan praktikum
 
 1. Buat kerangka layout
 
-![ft1](foto/ft1.png)
+![foto1.PNG](foto1.PNG)
 
 2. Buat navigasi
 
-![ft2](foto/ft2.png)
+![foto2.PNG](foto2.PNG)
 
 3. Membuat hero panel
 
-![ft3](foto/ft3.png)
+![foto3.PNG](foto3.PNG)
 
 4. Mengatur layout main sidebar
 
-![ft4](foto/ft4.png)
+![foto4.PNG](foto4.PNG)
 
 5. Membuat sidebar widget
 
-![ft5](foto/ft5.png)
+![foto5.PNG](foto5.PNG)
 
 6. Mengatur footer
 
-![ft6](foto/ft6.png)
+![foto6.PNG](foto6.PNG)
 
 7. menambahkan elemen lainnya pada content
 
-![ft7](foto/ft7.png)
+![foto7.PNG](foto7.PNG)
 
 8. Menambahkan konten artikel
 
-![ft8](foto/ft8.png)
+![foto8.PNG](foto8.PNG)
 
 ### terimakasih 
 
